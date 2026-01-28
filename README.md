@@ -64,6 +64,6 @@ npm run start
 
 ## Preview
 <img width="1880" height="942" alt="image" src="https://github.com/user-attachments/assets/f5d5cb9e-0a0c-4334-ba19-f6047a4aae8a" />
-<img width="1884" height="949" alt="image" src="https://github.com/user-attachments/assets/4d5d56a4-0008-438f-a588-6fa9040cb8e5" />
+<img width="1873" height="940" alt="image" src="https://github.com/user-attachments/assets/70936a45-5303-4256-a3ff-6212080d6451" />
 <img width="1880" height="944" alt="image" src="https://github.com/user-attachments/assets/17fa980b-77bc-4031-b79f-53c5c766854d" />
 <img width="1876" height="941" alt="image" src="https://github.com/user-attachments/assets/327fcce4-4ad3-47fb-a3ff-aa805f074d55" />
