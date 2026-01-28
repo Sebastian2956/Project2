@@ -42,9 +42,14 @@ export default function PrimaryButton({
       onMouseLeave={handleLeave}
       style={{ x: springX, y: springY }}
       initial={{ "--x": "120%" } as CSSProperties}
-      animate={{ "--x": "120%" } as CSSProperties}
+      animate={{ "--x": "-20%" } as CSSProperties}
+      transition={{
+        repeat: Infinity,
+        duration: 3,
+        ease: "easeInOut",
+      }}
       className={cn(
-        "group relative inline-flex items-center justify-center overflow-hidden rounded-full border border-white/15 bg-white/5 px-6 py-3 text-sm font-semibold uppercase tracking-[0.2em] text-white shadow-soft shimmer-sweep",
+        "group relative inline-flex items-center justify-center overflow-hidden rounded-full border border-white/15 bg-white/5 px-6 py-3 text-sm font-semibold uppercase tracking-[0.2em] text-white shadow-soft",
         className
       )}
       {...props}
