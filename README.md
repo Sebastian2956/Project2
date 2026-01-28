@@ -61,3 +61,8 @@ npm run start
 ## Notes
 - Remote images are configured for `images.pexels.com` in `next.config.mjs`.
 - The Pexels integration automatically falls back to a curated list of Pexels images when no API key is present.
+
+## Preview
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/79a1a82a-a4f9-4b7f-b2d3-b98d7060dd71" />
+<img width="1884" height="949" alt="image" src="https://github.com/user-attachments/assets/4d5d56a4-0008-438f-a588-6fa9040cb8e5" />
+<img width="1880" height="944" alt="image" src="https://github.com/user-attachments/assets/17fa980b-77bc-4031-b79f-53c5c766854d" />
